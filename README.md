@@ -18,7 +18,6 @@ Equipment
 Lighting
  * Recessed LED Lighting
 
-Lighting
 
 
 
