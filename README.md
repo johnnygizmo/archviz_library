@@ -1,4 +1,5 @@
 This is a place where I'm putting some helpful libraries of archviz parts. Feel free to use.
+If you like 'em you can buy me a coffee on CashApp $johnnygizmo :)
 
 Outlets and Switches
  * Outlets: Single, Double, Triple, Quad
@@ -9,13 +10,15 @@ Outlets and Switches
  * Keystone Outlet: Ethernet + Coax
  * GFI Outlet
  * Timer, Timer + Rocker Switch
+ 
 Equipment
  * Smoke Detector
  * Thermostat
+ 
 Lighting
  * Recessed LED Lighting
 
 Lighting
 
 
-If you like 'em you can buy me a coffee on CashApp $johnnygizmo :)
+
